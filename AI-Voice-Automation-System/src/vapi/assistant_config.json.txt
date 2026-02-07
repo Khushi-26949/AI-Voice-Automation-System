@@ -1,0 +1,16 @@
+{
+  "agent name": "Riley",
+  "language": "EN-IN"
+
+  "structured outputs": true,
+  "intents":"intents": [
+  "book_appointment",
+  "reschedule_appointment",
+  "cancel_appointment",
+  "check_availability",
+  "verify_existing_appointment",
+  "update_appointment_notes"
+]
+,
+  "fallback": "I'm sorry, could you repeat that?"
+}
