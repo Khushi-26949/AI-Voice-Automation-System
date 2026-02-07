@@ -43,6 +43,10 @@ AI voice platforms and automation workflows.
 
 ## 📁 Project Structure
 
+config/ → Assistant configuration (intents, language, fallback)
+docs/ → System prompt & assistant persona
+data/ → Sample appointment records
+examples/ → Sample flows & use cases
 
 ## 🔄 How the System Works
 
